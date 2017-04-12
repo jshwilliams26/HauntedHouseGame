@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Player class specification file
 ** This class will define a player with a name,
 ** an item bag, and an alive or dead status.

@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Haunted House specification file
 ** This class defines a haunted house, and it
 ** instantiates different space objects and links

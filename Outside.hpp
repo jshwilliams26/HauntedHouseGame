@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Outside class specification file
 ** This will define an Outside class.  The
 ** player will have the option to explore a

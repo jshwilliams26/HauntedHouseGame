@@ -1,5 +1,4 @@
 /****************************************
-** Name: Josh Williams
 ** Description: main program file
 ** This will welcome the player to the game,
 ** create a HauntedHouse object, and begin

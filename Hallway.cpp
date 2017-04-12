@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Hallway class implementation file
 ** Once the player enters the Hallway from the
 ** outside, the door to the outside will be locked

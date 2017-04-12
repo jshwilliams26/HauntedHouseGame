@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Kitchen class specification file
 ** The kitchen will have a locked cabinet that
 ** contains a holy cross, which is needed to

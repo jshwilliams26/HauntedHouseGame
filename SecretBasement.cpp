@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Secret Basement class implementation file
 ** The secret basement will have a number of
 ** spots on the ground to dig, one of them has

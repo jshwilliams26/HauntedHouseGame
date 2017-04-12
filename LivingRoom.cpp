@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Living Room class specification file
 ** In the living room, the player can exit the
 ** room, examine the bookshelf, and examine

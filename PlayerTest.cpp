@@ -1,5 +1,4 @@
 /******************************************
-** Name: Josh Williams
 ** Description: Player class test file.
 ** This will test the Player class's ability
 ** to add and remove items from the player's

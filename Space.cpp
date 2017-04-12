@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Space class implementation file
 ** This is an abstract class that is the base
 ** for different room/space classes that will

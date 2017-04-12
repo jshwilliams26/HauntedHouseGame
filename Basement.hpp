@@ -1,5 +1,4 @@
 /**********************************************
-** Name: Josh Williams
 ** Description: Basement class specification file
 ** The player will die from entering the basement
 ** without a light.  There is a hole in the basement
